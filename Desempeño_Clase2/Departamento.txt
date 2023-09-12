@@ -1,0 +1,79 @@
+Dirección:Santa Rosa 1026
+<br>
+Piso:1
+<br>
+Nº de Departamento:5
+<br>
+Nombre del Propietario:Maria
+<br>
+Apellido del Propietario:Madelon
+Departamento Alquilado
+<br>
+Nombre del Inquilino:gfgdf
+<br>
+Apellido del Inquilino:hjre
+<hr>
+Dirección:Santa Rosa 1026
+<br>
+Piso:1
+<br>
+Nº de Departamento:3
+<br>
+Nombre del Propietario:Bruno
+<br>
+Apellido del Propietario:Bonamino
+<br>
+Departamento Alquilado
+<br>
+Nombre del Inquilino:
+<br>
+Apellido del Inquilino:
+<hr>
+Dirección:Santa Rosa 1026
+<br>
+Piso:4
+<br>
+Nº de Departamento:4
+<br>
+Nombre del Propietario:Maria
+<br>
+Apellido del Propietario:Madelon
+<br>
+Departamento no Alquilado
+<br>
+Nombre del Inquilino:
+<br>
+Apellido del Inquilino:
+<hr>
+Dirección:Santa Rosa 1026
+<br>
+Piso:1
+<br>
+Nº de Departamento:4
+<br>
+Nombre del Propietario:Maria
+<br>
+Apellido del Propietario:Madelon
+<br>
+Departamento no Alquilado
+<br>
+Nombre del Inquilino:
+<br>
+Apellido del Inquilino:
+<hr>
+Dirección:Santa Rosa 1026
+<br>
+Piso:3
+<br>
+Nº de Departamento:4
+<br>
+Nombre del Propietario:Maria
+<br>
+Apellido del Propietario:Madelon
+<br>
+Departamento no Alquilado
+<br>
+Nombre del Inquilino:
+<br>
+Apellido del Inquilino:
+<hr>
